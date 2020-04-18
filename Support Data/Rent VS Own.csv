@@ -1,0 +1,61 @@
+﻿ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,Owner Occupied,2017,2017,1284532,8058,South Carolina,04000US45,south-carolina,0.686435737
+0,Owner Occupied,2017,2017,176015,1701,"Winston-Salem, NC",31000US49180,winston-salem-nc-metro-area,0.675634697
+0,Owner Occupied,2017,2017,75833135,358989,United States,01000US,united-states,0.638186806
+0,Owner Occupied,2017,2017,25455,611,"Shelby, NC",31000US43140,shelby-nc-micro-area,0.673733524
+0,Owner Occupied,2017,2017,20691,584,"North Wilkesboro, NC",31000US35900,north-wilkesboro-nc-micro-area,0.745218801
+0,Owner Occupied,2017,2017,99888,1502,"Hickory-Lenoir-Morganton, NC",31000US25860,hickory-lenoir-morganton-nc-metro-area,0.709936034
+0,Owner Occupied,2017,2017,14446,504,"Gaffney, SC",31000US23500,gaffney-sc-micro-area,0.705371094
+0,Owner Occupied,2017,2017,205117,2024,"Columbia, SC",31000US17900,columbia-sc-metro-area,0.672067444
+0,Owner Occupied,2017,2017,593123,4236,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-gastonia-rock-hill-nc-sc-metro-area,0.654404731
+0,Owner Occupied,2017,2017,17293,476,"Albemarle, NC",31000US10620,albemarle-nc-micro-area,0.724799866
+0,Owner Occupied,2017,2017,2517896,13596,North Carolina,04000US37,north-carolina,0.649889297
+0,Owner Occupied,2017,2017,86226,1240,"Spartanburg, SC",31000US43900,spartanburg-sc-metro-area,0.691162679
+0,Owner Occupied,2016,2016,201969,2143,"Columbia, SC",31000US17900,columbia-sc-metro-area,0.67088637
+0,Owner Occupied,2016,2016,579260,3771,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-gastonia-rock-hill-nc-sc-metro-area,0.653854316
+0,Owner Occupied,2016,2016,2471723,14278,North Carolina,04000US37,north-carolina,0.647829371
+0,Owner Occupied,2016,2016,1258661,7479,South Carolina,04000US45,south-carolina,0.684411604
+0,Owner Occupied,2016,2016,74881068,360470,United States,01000US,united-states,0.636115033
+0,Owner Occupied,2016,2016,173708,1757,"Winston-Salem, NC",31000US49180,winston-salem-nc-metro-area,0.670467221
+0,Owner Occupied,2016,2016,16933,431,"Albemarle, NC",31000US10620,albemarle-nc-micro-area,0.717865016
+0,Owner Occupied,2016,2016,84668,1197,"Spartanburg, SC",31000US43900,spartanburg-sc-metro-area,0.688022103
+0,Owner Occupied,2016,2016,14159,479,"Gaffney, SC",31000US23500,gaffney-sc-micro-area,0.6956714
+0,Owner Occupied,2016,2016,25015,530,"Shelby, NC",31000US43140,shelby-nc-micro-area,0.672844155
+0,Owner Occupied,2016,2016,20625,602,"North Wilkesboro, NC",31000US35900,north-wilkesboro-nc-micro-area,0.747743175
+0,Owner Occupied,2016,2016,97782,1529,"Hickory-Lenoir-Morganton, NC",31000US25860,hickory-lenoir-morganton-nc-metro-area,0.700358839
+0,Owner Occupied,2015,2015,2459072,13933,North Carolina,04000US37,north-carolina,0.65130956
+0,Owner Occupied,2015,2015,16815,521,"Albemarle, NC",31000US10620,albemarle-nc-micro-area,0.710482951
+0,Owner Occupied,2015,2015,13941,432,"Gaffney, SC",31000US23500,gaffney-sc-micro-area,0.679286654
+0,Owner Occupied,2015,2015,97673,1229,"Hickory-Lenoir-Morganton, NC",31000US25860,hickory-lenoir-morganton-nc-metro-area,0.707939522
+0,Owner Occupied,2015,2015,20385,580,"North Wilkesboro, NC",31000US35900,north-wilkesboro-nc-micro-area,0.743381227
+0,Owner Occupied,2015,2015,25546,629,"Shelby, NC",31000US43140,shelby-nc-micro-area,0.682081542
+0,Owner Occupied,2015,2015,83799,1143,"Spartanburg, SC",31000US43900,spartanburg-sc-metro-area,0.68937462
+0,Owner Occupied,2015,2015,174068,1711,"Winston-Salem, NC",31000US49180,winston-salem-nc-metro-area,0.675582948
+0,Owner Occupied,2015,2015,74712091,353420,United States,01000US,united-states,0.638967348
+0,Owner Occupied,2015,2015,1244998,7296,South Carolina,04000US45,south-carolina,0.685913787
+0,Owner Occupied,2015,2015,199786,1790,"Columbia, SC",31000US17900,columbia-sc-metro-area,0.670474567
+0,Owner Occupied,2015,2015,573214,4136,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-gastonia-rock-hill-nc-sc-metro-area,0.657718306
+0,Owner Occupied,2014,2014,82852,1363,"Spartanburg, SC",31000US43900,spartanburg-sc-metro-area,0.689732106
+0,Owner Occupied,2014,2014,25553,654,"Shelby, NC",31000US43140,shelby-nc-micro-area,0.68310744
+0,Owner Occupied,2014,2014,2461741,13326,North Carolina,04000US37,north-carolina,0.657777366
+0,Owner Occupied,2014,2014,1232154,7082,South Carolina,04000US45,south-carolina,0.68616345
+0,Owner Occupied,2014,2014,74787460,343068,United States,01000US,united-states,0.64354838
+0,Owner Occupied,2014,2014,20156,618,"North Wilkesboro, NC",31000US35900,north-wilkesboro-nc-micro-area,0.736830561
+0,Owner Occupied,2014,2014,98877,1319,"Hickory-Lenoir-Morganton, NC",31000US25860,hickory-lenoir-morganton-nc-metro-area,0.716001912
+0,Owner Occupied,2014,2014,14088,500,"Gaffney, SC",31000US23500,gaffney-sc-micro-area,0.68232673
+0,Owner Occupied,2014,2014,199204,1717,"Columbia, SC",31000US17900,columbia-sc-metro-area,0.671989853
+0,Owner Occupied,2014,2014,570946,3810,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-gastonia-rock-hill-nc-sc-metro-area,0.665495625
+0,Owner Occupied,2014,2014,17020,439,"Albemarle, NC",31000US10620,albemarle-nc-micro-area,0.724748765
+0,Owner Occupied,2014,2014,175763,1817,"Winston-Salem, NC",31000US49180,winston-salem-nc-metro-area,0.685767906
+0,Owner Occupied,2013,2013,2466388,12778,North Carolina,04000US37,north-carolina,0.663798911
+0,Owner Occupied,2013,2013,176887,1596,"Winston-Salem, NC",31000US49180,winston-salem-nc-metro-area,0.69327214
+0,Owner Occupied,2013,2013,25693,575,"Shelby, NC",31000US43140,shelby-nc-micro-area,0.680429025
+0,Owner Occupied,2013,2013,20339,575,"North Wilkesboro, NC",31000US35900,north-wilkesboro-nc-micro-area,0.739277406
+0,Owner Occupied,2013,2013,100038,1208,"Hickory-Lenoir-Morganton, NC",31000US25860,hickory-lenoir-morganton-nc-metro-area,0.721176513
+0,Owner Occupied,2013,2013,13897,442,"Gaffney, SC",31000US23500,gaffney-sc-micro-area,0.669347847
+0,Owner Occupied,2013,2013,16924,442,"Albemarle, NC",31000US10620,albemarle-nc-micro-area,0.732387052
+0,Owner Occupied,2013,2013,199769,2132,"Columbia, SC",31000US17900,columbia-sc-metro-area,0.678814507
+0,Owner Occupied,2013,2013,570793,4442,"Charlotte-Concord-Gastonia, NC-SC",31000US16740,charlotte-gastonia-rock-hill-nc-sc-metro-area,0.672603673
+0,Owner Occupied,2013,2013,1230181,7149,South Carolina,04000US45,south-carolina,0.69101548
+0,Owner Occupied,2013,2013,83386,1265,"Spartanburg, SC",31000US43900,spartanburg-sc-metro-area,0.699523506
+0,Owner Occupied,2013,2013,75075700,345645,United States,01000US,united-states,0.649386383
