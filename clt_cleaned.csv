@@ -1,4 +1,4 @@
-County,Year,Monthly Home Cost,Monthly Income,Prop Value,Sale Price,Inventory,Annual Income,Population
+County,Year,Monthly_Home_Cost,Monthly Income,Prop Value,Sale Price,Inventory,Annual Income,Population
 Cabarrus County,2013,1372,4270,168400,138617,207,54307,187226
 Gaston County,2013,1179,4784,122400,103633,215,41728,209420
 Lancaster County,2013,1149,5098,150100,142957,99,38500,80458
