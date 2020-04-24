@@ -1,0 +1,271 @@
+,Data,County,Stat,Year
+20,Med Monthly Home Cost,Cabarrus County,1372,2013
+56,Med Monthly Home Cost,Gaston County,1179,2013
+80,Med Monthly Home Cost,Lancaster County,1149,2013
+94,Med Monthly Home Cost,Mecklenburg County,1474,2013
+132,Med Monthly Home Cost,Union County,1486,2013
+145,Med Monthly Home Cost,York County,1296,2013
+20,Med Monthly Income,Cabarrus County,4269.5,2013
+56,Med Monthly Income,Gaston County,4783.67,2013
+80,Med Monthly Income,Lancaster County,5098,2013
+94,Med Monthly Income,Mecklenburg County,5330.08,2013
+132,Med Monthly Income,Union County,6154.25,2013
+133,Med Monthly Income,Union County,6197.75,2013
+145,Med Monthly Income,York County,8471.42,2013
+97,Med Prop Value,Cabarrus County,168400,2013
+276,Med Prop Value,Gaston County,122400,2013
+404,Med Prop Value,Lancaster County,150100,2013
+481,Med Prop Value,Mecklenburg County,176600,2013
+757,Med Prop Value,Union County,191100,2013
+831,Med Prop Value,York County,157500,2013
+132,Med Sale Price,Cabarrus County,138617,2013
+411,Med Sale Price,Gaston County,103633,2013
+621,Med Sale Price,Lancaster County,142957,2013
+736,Med Sale Price,Mecklenburg County,168792,2013
+1138,Med Sale Price,Union County,#DIV/0!,2013
+1139,Med Sale Price,Union County,173633,2013
+1253,Med Sale Price,York County,166475,2013
+303,Avg On Market Homes,Cabarrus County,207,2013
+945,Avg On Market Homes,Gaston County,215,2013
+1452,Avg On Market Homes,Lancaster County,99,2013
+1700,Avg On Market Homes,Mecklenburg County,1433,2013
+1701,Avg On Market Homes,Mecklenburg County,24,2013
+2596,Avg On Market Homes,Union County,274,2013
+2839,Avg On Market Homes,York County,514,2013
+97,Med Annual Income,Cabarrus County,54307,2013
+276,Med Annual Income,Gaston County,41728,2013
+404,Med Annual Income,Lancaster County,38500,2013
+481,Med Annual Income,Mecklenburg County,54278,2013
+757,Med Annual Income,Union County,63355,2013
+831,Med Annual Income,York County,54439,2013
+97,Med County Pop,Cabarrus County,187226,2013
+276,Med County Pop,Gaston County,209420,2013
+404,Med County Pop,Lancaster County,80458,2013
+481,Med County Pop,Mecklenburg County,990977,2013
+757,Med County Pop,Union County,212756,2013
+831,Med County Pop,York County,239363,2013
+,Med Monthly Home Cost,Cabarrus County,1359,2014
+,Med Monthly Home Cost,Gaston County,1176,2014
+,Med Monthly Home Cost,Lancaster County,1126,2014
+,Med Monthly Home Cost,Mecklenburg County,1453,2014
+,Med Monthly Home Cost,Union County,1472,2014
+,Med Monthly Home Cost,York County,1271,2014
+,Med Monthly Income,Cabarrus County,4315,2014
+,Med Monthly Income,Gaston County,4850.42,2014
+,Med Monthly Income,Lancaster County,5099.75,2014
+,Med Monthly Income,Mecklenburg County,5301.75,2014
+,Med Monthly Income,Union County,6271.67,2014
+,Med Monthly Income,Union County,6305.08,2014
+,Med Monthly Income,York County,8407.42,2014
+,Med Prop Value,Cabarrus County,169800,2014
+,Med Prop Value,Gaston County,127500,2014
+,Med Prop Value,Lancaster County,161000,2014
+,Med Prop Value,Mecklenburg County,189900,2014
+,Med Prop Value,Union County,209700,2014
+,Med Prop Value,York County,162900,2014
+,Med Sale Price,Cabarrus County,145200,2014
+,Med Sale Price,Gaston County,115442,2014
+,Med Sale Price,Lancaster County,138300,2014
+,Med Sale Price,Mecklenburg County,179700,2014
+,Med Sale Price,Union County,#DIV/0!,2014
+,Med Sale Price,Union County,186233,2014
+,Med Sale Price,York County,169358,2014
+,Avg On Market Homes,Cabarrus County,238,2014
+,Avg On Market Homes,Gaston County,247,2014
+,Avg On Market Homes,Lancaster County,107,2014
+,Avg On Market Homes,Mecklenburg County,1477,2014
+,Avg On Market Homes,Mecklenburg County,30,2014
+,Avg On Market Homes,Union County,300,2014
+,Avg On Market Homes,York County,561,2014
+,Med Annual Income,Cabarrus County,54347,2014
+,Med Annual Income,Gaston County,41011,2014
+,Med Annual Income,Lancaster County,44412,2014
+,Med Annual Income,Mecklenburg County,58841,2014
+,Med Annual Income,Union County,62898,2014
+,Med Annual Income,York County,52565,2014
+,Med County Pop,Cabarrus County,192103,2014
+,Med County Pop,Gaston County,211127,2014
+,Med County Pop,Lancaster County,83160,2014
+,Med County Pop,Mecklenburg County,1012539,2014
+,Med County Pop,Union County,218568,2014
+,Med County Pop,York County,245346,2014
+,Med Monthly Home Cost,Cabarrus County,1327,2015
+,Med Monthly Home Cost,Gaston County,1151,2015
+,Med Monthly Home Cost,Lancaster County,1117,2015
+,Med Monthly Home Cost,Mecklenburg County,1422,2015
+,Med Monthly Home Cost,Union County,1447,2015
+,Med Monthly Home Cost,York County,1246,2015
+,Med Monthly Income,Cabarrus County,4334,2015
+,Med Monthly Income,Gaston County,4903.67,2015
+,Med Monthly Income,Lancaster County,5198.33,2015
+,Med Monthly Income,Mecklenburg County,5334.33,2015
+,Med Monthly Income,Union County,6274,2015
+,Med Monthly Income,Union County,6350,2015
+,Med Monthly Income,York County,8525.42,2015
+,Med Prop Value,Cabarrus County,170600,2015
+,Med Prop Value,Gaston County,128000,2015
+,Med Prop Value,Lancaster County,159600,2015
+,Med Prop Value,Mecklenburg County,203700,2015
+,Med Prop Value,Union County,216800,2015
+,Med Prop Value,York County,171200,2015
+,Med Sale Price,Cabarrus County,158275,2015
+,Med Sale Price,Gaston County,124217,2015
+,Med Sale Price,Lancaster County,173708,2015
+,Med Sale Price,Mecklenburg County,191333,2015
+,Med Sale Price,Union County,#DIV/0!,2015
+,Med Sale Price,Union County,202075,2015
+,Med Sale Price,York County,185942,2015
+,Avg On Market Homes,Cabarrus County,258,2015
+,Avg On Market Homes,Gaston County,230,2015
+,Avg On Market Homes,Lancaster County,101,2015
+,Avg On Market Homes,Mecklenburg County,1552,2015
+,Avg On Market Homes,Mecklenburg County,26,2015
+,Avg On Market Homes,Union County,354,2015
+,Avg On Market Homes,York County,632,2015
+,Med Annual Income,Cabarrus County,56853,2015
+,Med Annual Income,Gaston County,44293,2015
+,Med Annual Income,Lancaster County,45676,2015
+,Med Annual Income,Mecklenburg County,56883,2015
+,Med Annual Income,Union County,71729,2015
+,Med Annual Income,York County,56359,2015
+,Med County Pop,Cabarrus County,196762,2015
+,Med County Pop,Gaston County,213442,2015
+,Med County Pop,Lancaster County,85842,2015
+,Med County Pop,Mecklenburg County,1034070,2015
+,Med County Pop,Union County,222742,2015
+,Med County Pop,York County,251195,2015
+,Med Monthly Home Cost,Cabarrus County,1339,2016
+,Med Monthly Home Cost,Gaston County,1137,2016
+,Med Monthly Home Cost,Lancaster County,1132,2016
+,Med Monthly Home Cost,Mecklenburg County,1416,2016
+,Med Monthly Home Cost,Union County,1460,2016
+,Med Monthly Home Cost,York County,1263,2016
+,Med Monthly Income,Cabarrus County,4474.75,2016
+,Med Monthly Income,Gaston County,5015.75,2016
+,Med Monthly Income,Lancaster County,5330.67,2016
+,Med Monthly Income,Mecklenburg County,5454.67,2016
+,Med Monthly Income,Union County,6369.33,2016
+,Med Monthly Income,Union County,6373.83,2016
+,Med Monthly Income,York County,8712.75,2016
+,Med Prop Value,Cabarrus County,199200,2016
+,Med Prop Value,Gaston County,136400,2016
+,Med Prop Value,Lancaster County,184000,2016
+,Med Prop Value,Mecklenburg County,221400,2016
+,Med Prop Value,Union County,223300,2016
+,Med Prop Value,York County,180700,2016
+,Med Sale Price,Cabarrus County,168117,2016
+,Med Sale Price,Gaston County,129283,2016
+,Med Sale Price,Lancaster County,197183,2016
+,Med Sale Price,Mecklenburg County,197850,2016
+,Med Sale Price,Union County,#DIV/0!,2016
+,Med Sale Price,Union County,212817,2016
+,Med Sale Price,York County,205817,2016
+,Avg On Market Homes,Cabarrus County,312,2016
+,Avg On Market Homes,Gaston County,279,2016
+,Avg On Market Homes,Lancaster County,130,2016
+,Avg On Market Homes,Mecklenburg County,1847,2016
+,Avg On Market Homes,Mecklenburg County,30,2016
+,Avg On Market Homes,Union County,366,2016
+,Avg On Market Homes,York County,617,2016
+,Med Annual Income,Cabarrus County,63386,2016
+,Med Annual Income,Gaston County,48711,2016
+,Med Annual Income,Lancaster County,56216,2016
+,Med Annual Income,Mecklenburg County,62978,2016
+,Med Annual Income,Union County,71588,2016
+,Med Annual Income,York County,60767,2016
+,Med County Pop,Cabarrus County,201590,2016
+,Med County Pop,Gaston County,216965,2016
+,Med County Pop,Lancaster County,89594,2016
+,Med County Pop,Mecklenburg County,1054835,2016
+,Med County Pop,Union County,226606,2016
+,Med County Pop,York County,258526,2016
+,Med Monthly Home Cost,Cabarrus County,1358,2017
+,Med Monthly Home Cost,Gaston County,1148,2017
+,Med Monthly Home Cost,Lancaster County,1161,2017
+,Med Monthly Home Cost,Mecklenburg County,1431,2017
+,Med Monthly Home Cost,Union County,1485,2017
+,Med Monthly Home Cost,York County,1276,2017
+,Med Monthly Income,Cabarrus County,4658.92,2017
+,Med Monthly Income,Gaston County,5151.33,2017
+,Med Monthly Income,Lancaster County,5504.58,2017
+,Med Monthly Income,Mecklenburg County,5732.33,2017
+,Med Monthly Income,Union County,6625,2017
+,Med Monthly Income,Union County,6667,2017
+,Med Monthly Income,York County,8998.67,2017
+,Med Prop Value,Cabarrus County,208000,2017
+,Med Prop Value,Gaston County,141400,2017
+,Med Prop Value,Lancaster County,187700,2017
+,Med Prop Value,Mecklenburg County,234100,2017
+,Med Prop Value,Union County,232300,2017
+,Med Prop Value,York County,199400,2017
+,Med Sale Price,Cabarrus County,175975,2017
+,Med Sale Price,Gaston County,134383,2017
+,Med Sale Price,Lancaster County,196117,2017
+,Med Sale Price,Mecklenburg County,199717,2017
+,Med Sale Price,Union County,296967,2017
+,Med Sale Price,Union County,222992,2017
+,Med Sale Price,York County,221250,2017
+,Avg On Market Homes,Cabarrus County,340,2017
+,Avg On Market Homes,Gaston County,340,2017
+,Avg On Market Homes,Lancaster County,147,2017
+,Avg On Market Homes,Mecklenburg County,2183,2017
+,Avg On Market Homes,Mecklenburg County,44,2017
+,Avg On Market Homes,Union County,394,2017
+,Avg On Market Homes,York County,688,2017
+,Med Annual Income,Cabarrus County,61490,2017
+,Med Annual Income,Gaston County,49670,2017
+,Med Annual Income,Lancaster County,61914,2017
+,Med Annual Income,Mecklenburg County,65588,2017
+,Med Annual Income,Union County,77691,2017
+,Med Annual Income,York County,62217,2017
+,Med County Pop,Cabarrus County,206872,2017
+,Med County Pop,Gaston County,220182,2017
+,Med County Pop,Lancaster County,92550,2017
+,Med County Pop,Mecklenburg County,1076837,2017
+,Med County Pop,Union County,231366,2017
+,Med County Pop,York County,266439,2017
+,Med Monthly Home Cost,Cabarrus County,1380,2018
+,Med Monthly Home Cost,Gaston County,1170,2018
+,Med Monthly Home Cost,Lancaster County,1217,2018
+,Med Monthly Home Cost,Mecklenburg County,1462,2018
+,Med Monthly Home Cost,Union County,1533,2018
+,Med Monthly Home Cost,York County,1335,2018
+,Med Monthly Income,Cabarrus County,4870,2018
+,Med Monthly Income,Gaston County,5405.33,2018
+,Med Monthly Income,Lancaster County,5739.92,2018
+,Med Monthly Income,Mecklenburg County,5997.75,2018
+,Med Monthly Income,Union County,6862,2018
+,Med Monthly Income,Union County,6880.17,2018
+,Med Monthly Income,York County,9265.42,2018
+,Med Prop Value,Cabarrus County,219700,2018
+,Med Prop Value,Gaston County,153700,2018
+,Med Prop Value,Lancaster County,211500,2018
+,Med Prop Value,Mecklenburg County,253000,2018
+,Med Prop Value,Union County,269900,2018
+,Med Prop Value,York County,219500,2018
+,Med Sale Price,Cabarrus County,193008,2018
+,Med Sale Price,Gaston County,147867,2018
+,Med Sale Price,Lancaster County,218983,2018
+,Med Sale Price,Mecklenburg County,228833,2018
+,Med Sale Price,Union County,305000,2018
+,Med Sale Price,Union County,249392,2018
+,Med Sale Price,York County,238983,2018
+,Avg On Market Homes,Cabarrus County,349,2018
+,Avg On Market Homes,Gaston County,365,2018
+,Avg On Market Homes,Lancaster County,155,2018
+,Avg On Market Homes,Mecklenburg County,1906,2018
+,Avg On Market Homes,Mecklenburg County,39,2018
+,Avg On Market Homes,Union County,375,2018
+,Avg On Market Homes,York County,712,2018
+,Med Annual Income,Cabarrus County,69679,2018
+,Med Annual Income,Gaston County,52741,2018
+,Med Annual Income,Lancaster County,57224,2018
+,Med Annual Income,Mecklenburg County,63967,2018
+,Med Annual Income,Union County,80337,2018
+,Med Annual Income,York County,64319,2018
+,Med County Pop,Cabarrus County,211342,2018
+,Med County Pop,Gaston County,222846,2018
+,Med County Pop,Lancaster County,95380,2018
+,Med County Pop,Mecklenburg County,1093901,2018
+,Med County Pop,Union County,235908,2018
+,Med County Pop,York County,274118,2018
